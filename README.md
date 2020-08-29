@@ -8,5 +8,5 @@ A compiling manager.
 
 ### Command usage: 💻
 **`compl type file1 file2 options`**
-* **Supported types:** *Assemblyx86*(asm32), *Assemblyx64*(asm64), *C*(c), *C++*(cpp)
-* **Supported options:** *-k*(keeping unused files)
+* **Supported types:** *Assemblyx86* (asm32), *Assemblyx64* (asm64), *C* (c), *C++* (cpp)
+* **Supported options:** *-k* (keeping unused files)
